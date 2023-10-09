@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "readline-sync": "^1.4.10",
+    "typescript": "^5.2.2"
+  },
+  "name": "gabrielweimer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npx tsc sete.ts && node sete"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
