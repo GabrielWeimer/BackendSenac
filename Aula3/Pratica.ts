@@ -185,6 +185,7 @@ while(continuar){
 */
 
 /*
+Qustao 7
 let continuar = true
 while(continuar){
     let pergunta: Number = leitor.questionInt("Digite um numero de 1 a 5 ou 7 para sair:")
